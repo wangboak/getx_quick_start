@@ -1,3 +1,9 @@
+# 写在前面
+本项目 Fork 自 https://github.com/ducafecat/getx_quick_start. 因为原项目中的 get 版本过低，无法运行，所以我将 get 版本升级到了 4.6.
+6，同时将项目中的部分代码（主要是一些抽象类添加了新函数需要实现）进行了修改，仅使其能够正常运行。
+
+<br/><br/><br/><br/><br/><br/>
+
 <a href="https://ducafecat.com" target="_blank">
   <img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/ducafecat/video-ducafecat-banner.png" alt="猫哥视频站" >
 </a>
